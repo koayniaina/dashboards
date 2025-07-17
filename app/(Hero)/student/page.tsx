@@ -6,7 +6,7 @@ import React from "react";
 export default function StudentPage() {
   return (
     <div>
-      <div className="relative">
+      <div className="relative m-3">
         <div className={styles.Herosearch}>
           <Search/>
           <Contacts />
